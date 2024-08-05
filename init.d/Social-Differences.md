@@ -1,0 +1,50 @@
+Students must complete a minimum of 8 courses to fulfill all 10 distribution categories below. Distribution requirements can be taken S/U if they aren't being used to also fulfill a major or minor requirement.
+ 
+Courses in this area examine arts, literature, and culture in various contexts. Students gain insights into the interplay of individual or collaborative creativity and social practice, and understand the complexities of the expression of the human condition. Topics include the analysis of artworks and literary texts, and the belief systems of social groups, cultures, and civilizations; they also focus on artistic expression itself (in creative writing, performing arts, and media such as film and video).
+ 
+**DOWNLOAD ⏩ [https://ammetephy.blogspot.com/?d=2A0RZG](https://ammetephy.blogspot.com/?d=2A0RZG)**
+
+
+ 
+Courses in this area focus on understanding a wide range of life forms, from single cells to plants, animals, and their ecosystems. Topics include the molecular and biochemical makeup of life, the sub-cellular, cellular and organismal structures of life, and the evolutionary relatedness of all life forms. Students learn to describe how organisms are connected to each other and to their physical environment. Many courses address how genetic information is expressed from DNA, and how this expression leads to complex function and behavior.
+ 
+Courses in this area investigate the human mind and its capacities, ranging from cognitive faculties shared by humans and animals such as perception, to language and abstract reasoning, to the ability to form and justify ethical values. Courses investigating the mind may use the methodologies of psychology, linguistics, or philosophy. Those focusing on ethics explore ways of reflecting on questions that concern the nature of justice, the good life, or human values in general. Many courses combine these topics and methodologies.
+ 
+Courses in this area examine the history, culture, politics, religion, and social relations of peoples in different parts of the world, as well as their interactions. They encourage students to think broadly about the global community and their place within it, beyond the boundaries of their particular national or cultural group, and cultivate skills of intercultural engagement that are vital to their role as global citizens. These courses introduce students to global challenges such as war and peace, social and economic inequalities, international migration, and environmental sustainability, and encourage students to think critically about international responses to these challenges.
+ 
+Courses in this area train students in the analysis of documentary, material, and oral evidence about social phenomena, institutions, events and ideas of the past. Students learn to evaluate and critically assess differing analyses and interpretations of former times so that they may acquire a better understanding of the origins and evolution of the present. Questions addressed in HA courses include why and under what circumstances changes have occurred in how people have interacted with one another and with the environments in which they live.
+ 
+Courses satisfying this requirement provide an appreciation of how science generates and categorizes enduring knowledge of our physical world. This includes the physics, chemistry, and technology involved, of everything from light, to atoms, DNA molecules, Earth science, our Solar system, and to the Cosmos. These courses expose students to both the process and some of the substance of science. By learning the universal aspects of scientific enquiry, students will be better equipped to form opinions on scientific issues that affect the world.
+ 
+Courses in this area examine social differences relevant to the human experience. Social categories include class, race, ethnicity, indigeneity, nationality, language, religion, gender, sexuality, and ability as objects of study. Students develop a deeper understanding of these categories and their intersections. Topics may include: how hierarchies in power and status shape social differences; how social, economic and political systems can impact the interpretation of social differences; and how differences attributed to various groups are explained.
+
+Courses in this area examine social, economic, political, psychological, demographic, linguistic, and relational processes. Topics include understanding how different social contexts, for example neighborhoods, families, markets, networks, or political organizations, shape social life. Students learn to identify, describe, and explain the causes and consequences of social phenomena using quantitative and/or qualitative evidence based on systematic observation of the social world. They also learn to link evidence to theory through rigorous and transparent reasoning, and/or reflect critically on the concepts through which people make sense of the social world.
+ 
+Courses satisfying this requirement help students develop the skills to solve problems through understanding abstract, logical relationships. Such skills include mathematical analysis of patterns and phenomena, modeling natural and technological systems, and creating algorithms essential to computation. These courses explore specific quantitative and symbolic methods, strategies for applying logical reasoning in diverse areas, and the intrinsic elegance of mathematics.
+ 
+If you plan to continue in a previously studied language, you **must** take a placement test to determine the correct level for enrollment. Online placement tests in several commonly-taught languages are available online.
+ 
+If an online placement test is not available, then consult the course descriptions to determine which course seems more appropriate for you. You may change your enrollment after taking a placement test during Orientation.
+ 
+**I studied a foreign language in high school, but I'm not confident in my abilities, and I'd like to enroll in a lower-level course than I placed into. Is this all right?**
+No, it is not. Departments require that students enroll in the course indicated by their placement exams.
+ 
+If you are fluent in a language that is not offered for study at Cornell, you may petition to request that your language requirement be waived. Please see the Foreign Language Exemption petition for more information.
+ 
+**Can I use AP, IB or A-Level credits to fulfill the language requirement?**
+No. These scores may be used for placement into a higher-level course, but will not fulfill the requirement.
+ 
+**After I fulfill the language requirement, can I still study another language at Cornell?**
+Absolutely! Many Cornell students study more than one language, or continue in language study beyond the college requirement.
+ 
+You can also monitor your progress toward meeting your college degree requirements by checking your DUST (Distributed Undergraduate Student Tracking) report. The DUST report is updated soon after the end of each semester. To monitor your progress toward meeting your major requirements, please contact your major department.
+ 
+A. whereas the Committee on Petitions has received a petition expressing justifiable concern at the impossibility of accessing basic banking services, such as to confirm a payment or access a personal bank account, without having a mobile phone despite there being no legal obligation to possess such a device; whereas a divide exists between people who are increasingly using digital means of payment and others who cannot or are reluctant to use them; whereas this petition raises the broader issue of the impact of digitalisation on citizens and customers and users of public and private services;
+ 
+B. whereas cash is the payment instrument most frequently used in the euro area; whereas according to recent ECB data, the total number of cash dispensers in the euro area decreased by 4,2 % to 0,28 million in 2021(8); whereas, there has been a parallel decrease in the number of bank branches per inhabitant across the euro area; whereas EUR 127 billion has been earmarked for digital related reforms and investments in the national recovery and resilience plans(9); whereas Member States made progress on their digitalisation efforts during the COVID-19 pandemic, but are still struggling to narrow the gaps in digital skills and in the digital transformation of small and medium-sized enterprises;
+ 
+C. whereas the Committee on Petitions has received a petition expressing concern that most service providers only make information available online and often through channels only compatible with smartphones, which puts older people, persons with disabilities, persons on low incomes, the digitally unskilled and people with limited internet access at a disadvantage;
+ 
+D. whereas although digitalisation and the appropriate use of digital tools have brought many economic and societal benefits and opportunities, a number of ethical, legal and employment challenges have emerged which may cause serious disadvantages or harm to individuals and society as a whole; whereas the potential of new technologies is ambivalent, as depending on how they are used and regulated, they can either help create a more inclusive society and reduce inequities, or they can amplify existing inequalities and create new forms of discrimination;
+ 
+E. whereas digitalisation is having a profound impact on the daily social, economic, political and cultural life of citizens, workers and consumers and is affecting all areas of society; whereas digitalisation is at the root of a number of social differences, with a new digital divide emerging, not only between well-connected urban areas and rural and remote areas, but also between those people who can fully benefit from an enriched, accessible and secure digital space with a wide range of services, and those who cannot do so; whereas the increasingly widespread use of digital payments, including cards, digital
